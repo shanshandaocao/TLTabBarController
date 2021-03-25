@@ -8,8 +8,8 @@
 
 #import "TLBadge.h"
 
-#define     FONT_TITLE          [UIFont systemFontOfSize:12]
-#define     EDGE_TITLE          self.frame.size.height * 0.3
+#define     FONT_TITLE          [UIFont systemFontOfSize:11]
+#define     EDGE_TITLE          0
 #define     MAX_HEIGHT          18.0f
 #define     MIN_HEIGHT          10.0f
 
